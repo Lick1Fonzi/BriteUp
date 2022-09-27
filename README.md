@@ -1,5 +1,5 @@
-# gi_progetto
-Progetto di gestione dell'informazione, sviluppato in cooperazione con Nicholas Lo Piccolo.
+# gi_progetto 
+Progetto di gestione dell'informazione, sviluppato in cooperazione con Nicholas Lo Piccolo. Unimore FIM, anno accademico: 2021/2022
 
 # Web crawlers construction python:
 - Scrapy framework 
