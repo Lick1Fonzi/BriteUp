@@ -1,0 +1,10 @@
+karaoke
+dance
+speed dating
+science OR tech
+new york AND music
+content:comedy
+dating AND url:eventbrite
+london AND event:jun
+event:crypto AND event:blockchain
+event:jul AND (event:thu OR event:wed) 
