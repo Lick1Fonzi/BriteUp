@@ -1,5 +1,5 @@
 # gi_progetto
-Progetto di gestione dell'informazione, sviluppato in cooperazione con Daniele Bianchini.
+Progetto di gestione dell'informazione, sviluppato in cooperazione con Nicholas Lo Piccolo.
 
 # Web crawlers construction python:
 - Scrapy framework 
